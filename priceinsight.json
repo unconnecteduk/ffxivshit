@@ -1,17 +1,19 @@
-{
-	"Author": "Kouzukii",
-	"Name": "Price Insight",
-	"Description": "See item marketboard prices on hover!",
-	"InternalName": "PriceInsight",
-	"AssemblyVersion": "1.0.0.0",
-	"RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
-	"ApplicableVersion": "any",
-	"DalamudApiLevel": 3,
-	"DownloadLinkInstall": "https://github.com/Kouzukii/DalamudPlugins/raw/master/plugins/PriceInsight/latest.zip",
-	"IsHide": false,
-	"IsTestingExclusive": false,
-	"DownloadLinkTesting": "https://github.com/Kouzukii/DalamudPlugins/raw/master/plugins/PriceInsight/latest.zip",
-	"DownloadLinkUpdate": "https://github.com/Kouzukii/DalamudPlugins/raw/master/plugins/PriceInsight/latest.zip",
-	"DownloadCount": 0,
-	"LastUpdated": "1626301625"
-},
+[
+	{
+		"Author": "Kouzukii",
+		"Name": "Price Insight",
+		"Description": "See item marketboard prices on hover!",
+		"InternalName": "PriceInsight",
+		"AssemblyVersion": "1.0.0.0",
+		"RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 3,
+		"DownloadLinkInstall": "https://github.com/Kouzukii/DalamudPlugins/raw/master/plugins/PriceInsight/latest.zip",
+		"IsHide": false,
+		"IsTestingExclusive": false,
+		"DownloadLinkTesting": "https://github.com/Kouzukii/DalamudPlugins/raw/master/plugins/PriceInsight/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/Kouzukii/DalamudPlugins/raw/master/plugins/PriceInsight/latest.zip",
+		"DownloadCount": 0,
+		"LastUpdated": "1626301625"
+	}
+]
